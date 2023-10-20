@@ -1,15 +1,28 @@
 <h2>GazeVQA: A Video Question Answering Dataset for Multiview Eye-Gaze Task-Oriented Collaborations</h2>
 
 <h3><a href="https://2023.emnlp.org/"> GazeVQA Paper </a> :page_with_curl:</h3>
-<h3><a href="https://nusu-my.sharepoint.com/:f:/g/personal/e0816604_u_nus_edu/EqS0Iaat4nNFsBOJSHwRj9YBLbIYq8ZF2bNvaMCZfdlm3Q"> GazeVQA Dataset </a> :book: & :clapper: </h3>
+<h3><a href="https://nusu-my.sharepoint.com/:f:/r/personal/e0816604_u_nus_edu/Documents/GazeVQA?csf=1&web=1&e=mSz3TK"> GazeVQA Dataset </a> :book: & :clapper: </h3>
 <h3><a href="https://github.com/showlab/AssistGaze"> Codes for AssistGaze </a> :computer: </h3>
 <h3><a href="https://twitter.com/muhammetfi"> Twitter </a> :bird: </h3>
 
 
 <p>Thrilled to release GazeVQA which is a video question answering dataset for multiview eye-gaze task-oriented collaborations and an AI assistant called AssistGaze is designed to answer the questions with three different answer types, namely textual, image, and video. Please check out our paper "GazeVQA: A Video Question Answering Dataset for Multiview Eye-Gaze Task-Oriented Collaborations"!</p>
 
+<p>Because of the institute rules, the reader needs to get a verification code. Please, send me an email. I am a responsive person. I can directly give you permission to get the dataset.</p>
 <p>Please, if you have any questions, do not hesitate to contact me. (m.furkanilaslan@gmail.com)</p>
 
+![Screenshot 2023-10-20 at 23 50 29](https://github.com/mfurkanilaslan/GazeVQA/assets/70204805/e789880b-b8f2-4999-8bbd-2cdc6365e1ef)
+
+<p>When you reach the dataset folder, you will see these subfiles.</p>
+<ol>
+  <li>ELAN folder: consists of annotation files for all subjects' videos.</li>
+  <li>Gaze folder: Location information of eye-gaze for all subjects exists in the Gaze folder.</li>
+  <li>QA_Lists_raw folder: It represents the raw version of the QA pairs. There is an important Excel file called Task_features. You can find the statistical information in GazeVQA from this file.</li> 
+  <li>QALIST_Data folder: This file shows the ready-to-use data for the textual inputs and answer details.</li>
+  <li>SAM.zip folder: It consists of all labeled images by Segment Anything Model</li>
+  <li>Video_cropping folder: It consists of all codes for cropped videos.</li>
+  <li>Videos folder: This folder consists of all raw videos. The last folder in the Videos folder called "S035_videos_n_n5" is an example of the videos we used. We shared the rest of the videos' raw version. We believe that the different ideas could leverage this study and contribute to the community. Thus, we expect that interested readers can use these raw videos differently to increase the impact of this approach in future studies.</li>
+  
 <h3>Overview</h3>
 
 <h4>1. GazeVQA Dataset</h4>
