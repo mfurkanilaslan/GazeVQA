@@ -197,12 +197,7 @@
 <p>Figure 12. An example of GazeVQA and AssistGaze. The GazeVQA dataset contains gaze info with ego/exocentric videos to answer the questions that have semantic knowledge about human-robot studies.</p>
 
 
-<h4>9. Citation</h4>
-
-<p>[UPDATE SOON] If you found this repository useful, please consider citing our paper:</p>
-
-
-<h4>10. References</h4>
+<h4>9. References</h4>
 
 <ol>
   <li>Kristen Grauman, et.al.  2022. Ego4d: Around the world in 3,000 hours of egocentric video. In IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2022, New Orleans, LA, USA, June 18-24, 2022, pages 18973–18990. IEEE.</li> 
@@ -225,4 +220,34 @@
   </ol>
 
 <h2>Please, if you have any questions, do not hesitate to contact me. (m.furkanilaslan@gmail.com)</h2>
+<h2>Do not forget to glance our Model at https://github.com/showlab/AssistGaze</h2>
+
+<h4>10. Citation</h4>
+
+<p>If you found this repository useful, please consider citing our paper:</p>
+
+```bibtex
+@inproceedings{ilaslan-etal-2023-gazevqa,
+    title = "{G}aze{VQA}: A Video Question Answering Dataset for Multiview Eye-Gaze Task-Oriented Collaborations",
+    author = "Ilaslan, Muhammet Furkan  and
+      Song, Chenan  and
+      Chen, Joya  and
+      Gao, Difei  and
+      Lei, Weixian  and
+      Xu, Qianli  and
+      Lim, Joo  and
+      Shou, Mike",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = Dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.648",
+    doi = "10.18653/v1/2023.emnlp-main.648",
+    pages = "10462--10479",
+}
+
 
