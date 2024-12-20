@@ -3,7 +3,7 @@
 <h3><a href="https://2023.emnlp.org/"> GazeVQA Paper </a> :page_with_curl:</h3>
 <h3><a href="https://nusu-my.sharepoint.com/:f:/r/personal/e0816604_u_nus_edu/Documents/GazeVQA?csf=1&web=1&e=mSz3TK"> GazeVQA Dataset </a> :book: & :clapper: </h3>
 <h3><a href="https://github.com/showlab/AssistGaze"> Codes for AssistGaze </a> :computer: </h3>
-<h3><a href="https://twitter.com/muhammetfi"> X </a> :heavy_multiplication_x: </h3>
+<h3><a href="https://twitter.com/muhammetfi"> Twitter/X </a> :heavy_multiplication_x: </h3>
 
 
 <p>Thrilled to release GazeVQA which is a video question answering dataset for multiview eye-gaze task-oriented collaborations and an AI assistant called AssistGaze is designed to answer the questions with three different answer types, namely textual, image, and video. Please check out our paper "GazeVQA: A Video Question Answering Dataset for Multiview Eye-Gaze Task-Oriented Collaborations"!</p>
