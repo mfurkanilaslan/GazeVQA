@@ -1,7 +1,7 @@
 <h2>GazeVQA: A Video Question Answering Dataset for Multiview Eye-Gaze Task-Oriented Collaborations</h2>
 
 <h3><a href="https://2023.emnlp.org/"> GazeVQA Paper </a> :page_with_curl:</h3>
-<h3><a href="https://nusu-my.sharepoint.com/:f:/r/personal/e0816604_u_nus_edu/Documents/GazeVQA?csf=1&web=1&e=mSz3TK"> GazeVQA Dataset </a> :book: & :clapper: </h3>
+<h3><a href="https://drive.google.com/drive/folders/1QktV5EEaCy1lFLo4RdorvhSy4yKuBbUJ?usp=sharing"> GazeVQA Dataset </a> :book: & :clapper: </h3>
 <h3><a href="https://github.com/showlab/AssistGaze"> Codes for AssistGaze </a> :computer: </h3>
 <h3><a href="https://twitter.com/muhammetfi"> Twitter/X </a> :heavy_multiplication_x: </h3>
 
